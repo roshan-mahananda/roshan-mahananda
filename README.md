@@ -62,13 +62,6 @@ More Java projects (HR Portal, Vehicle Rental System, Student Management System,
 - 🤝 Exploring **open-source** contributions, including the Checkstyle project
 - 💼 Putting together a portfolio and getting started with **freelancing**
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roshan-mahananda&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-mahananda&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ## 📫 Let's connect
 
 <!-- Replace the placeholders below with your real links, or delete the lines you don't want -->
